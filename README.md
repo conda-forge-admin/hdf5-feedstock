@@ -291,6 +291,3 @@ Feedstock Maintainers
 * [@varlackc](https://github.com/varlackc/)
 * [@zklaus](https://github.com/zklaus/)
 
-
-<!-- dummy commit to enable rerendering -->
-
